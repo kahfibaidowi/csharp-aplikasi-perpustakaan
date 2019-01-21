@@ -9,6 +9,7 @@ aplikasi perpustakan menggunakan mysql dan c#
 3. mysql/mariaDB database
 4. mysql odbc
 5. mysql connector
+6. .net framework 4
 
 # cara install
 1. buat database di mysql/mariaDB dengan nama db_perpus
