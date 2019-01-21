@@ -1,0 +1,9 @@
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\bin\Debug\perpustakaan-client.exe.config
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\bin\Debug\perpustakaan-client.exe
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\bin\Debug\perpustakaan-client.pdb
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Debug\perpustakaan-client.csprojResolveAssemblyReference.cache
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Debug\perpustakaan_client.halaman_utama.resources
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Debug\perpustakaan_client.Properties.Resources.resources
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Debug\perpustakaan-client.csproj.GenerateResource.Cache
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Debug\perpustakaan-client.exe
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Debug\perpustakaan-client.pdb

@@ -1,0 +1,13 @@
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\bin\Release\perpustakaan-client.exe.config
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\bin\Release\perpustakaan-client.exe
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\bin\Release\perpustakaan-client.pdb
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Release\perpustakaan_client.halaman_utama.resources
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Release\perpustakaan_client.Properties.Resources.resources
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Release\perpustakaan-client.csproj.GenerateResource.Cache
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Release\perpustakaan-client.exe
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Release\perpustakaan-client.pdb
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Release\perpustakaan-client.csprojResolveAssemblyReference.cache
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\bin\Release\perpustakaan-client.exe.manifest
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\bin\Release\perpustakaan-client.application
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Release\perpustakaan-client.exe.manifest
+D:\tugas kuliah\c#\perpustakaan-app\perpustakaan-client\obj\Release\perpustakaan-client.application
